@@ -1,3 +1,5 @@
+//Alland, Joaquin, Erick , Susana
+
 package cl.inacap.calculadora1.model;
 
 import java.util.ArrayList;
