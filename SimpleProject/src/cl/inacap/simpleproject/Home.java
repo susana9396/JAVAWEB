@@ -1,5 +1,5 @@
+//Marcela, Antonio, Jorge G, Susana 
 package cl.inacap.simpleproject;
-
 import java.io.IOException;
 import java.io.PrintWriter;
 
