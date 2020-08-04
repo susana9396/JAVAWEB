@@ -1,0 +1,28 @@
+
+*{
+	margin : 0;
+	padding : 0;
+}
+
+
+.row{
+	display: inline-block;
+
+	background-color: white;
+	padding : 1px;
+}
+
+.lala{
+	padding : 1px;
+	display: inline-block;
+	height : 50px;
+	width : 50px;
+	
+}
+.negro{
+	background-color: black;
+}
+
+.rojo{
+	background-color : red;
+}
