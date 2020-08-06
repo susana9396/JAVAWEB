@@ -1,0 +1,22 @@
+@charset "ISO-8859-1"; 
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+body{
+	
+	background-image: url("https://estaticos.qdq.com/swdata/home_photos/952/952739046/5c62218e52344f35ac1d652369885ed5.jpg");
+}
+#container {
+	padding-top: 20px;
+	text-align: center;
+	height:700px;
+	
+}
+.formulario{
+	margin-top: 20px;
+	border: solid 3px white;
+	padding:200px;
+	display: inline-block;
+}
